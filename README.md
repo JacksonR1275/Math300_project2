@@ -10,6 +10,7 @@ Dijkstra uses the Random Graph Generator and Project implements both algorithms 
 
 Jackson Reeves contributed the Dijkstra's algorithm.
 Malcolm Meierbachtol worked on the new algorithm section.
+Isaac Herbison created the random graph generator
 
 **********AI Use Statement**********
 AI was only used for debugging and testing our code. Copilot was not used to generate code. 
