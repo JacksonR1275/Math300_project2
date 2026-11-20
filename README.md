@@ -9,7 +9,7 @@ Each file builds on each other.
 Dijkstra uses the Random Graph Generator and Project implements both algorithms in the same file along with the random graph generator to show a direct comparison between the two.
 
 Jackson Reeves contributed the Dijkstra's algorithm.
-Malcolm Meierbachtol worked on the new algorithm section
+Malcolm Meierbachtol worked on the new algorithm section.
 
 **********AI Use Statement**********
 AI was only used for debugging and testing our code. Copilot was not used to generate code. 
